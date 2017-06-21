@@ -4,7 +4,7 @@
     "connector": "memory"
   },
   "accountDS": {
-    "host": "",
+    "host": "accountDS",
     "port": 0,
     "url": "",
     "database": "",
